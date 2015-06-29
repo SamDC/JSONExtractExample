@@ -26,3 +26,11 @@ The endpoint is an example of making a straightforward request to a remote endpo
 ### Extract2
 
 The endpoint is an example of accessing a remote api using a certificate. A requirment for this one is to separate out the private key and public certificate from the certificate file so you end up with the two pem files detailed in the code. Another thing to note is that the return in this example was csv from a web service, so the result could be saved straight to the file system.
+
+##Links
+
+[Nice JSON to CSV](https://github.com/matteofigus/nice-json2csv)
+[NPM](https://www.npmjs.com)
+[Node JS](https://nodejs.org)
+
+
