@@ -29,8 +29,8 @@ The endpoint is an example of accessing a remote api using a certificate. A requ
 
 ##Links
 
-[Nice JSON to CSV](https://github.com/matteofigus/nice-json2csv)
-[NPM](https://www.npmjs.com)
-[Node JS](https://nodejs.org)
+- [Nice JSON to CSV](https://github.com/matteofigus/nice-json2csv)
+- [NPM](https://www.npmjs.com)
+- [Node JS](https://nodejs.org)
 
 
